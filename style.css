@@ -1,0 +1,76 @@
+.header {
+  color: black;
+  height: 120px;
+  background-color: #26d0c9;
+  color: #fff;
+  paddind: 100px;
+  border-radius: 20px;
+}
+.header-list h {
+  background-color: white;
+  color: orange;
+  font-size: 30px;
+  font-family: "Mochiy Pop One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.header-logo {
+  font-size: 60px;
+  padding: 40px;
+  margin-left: 100px;
+  font-family: "Mochiy Pop One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.header-list p {
+  background-color: lightgreen;
+  color: black;
+  font-family: "Mochiy Pop One", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  padding: 40px;
+  border-radius: 20px;
+}
+.header-list h1 {
+  background-color: white;
+  color: orange;
+  font-size: 30px;
+  font-family: "Mochiy Pop One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.header-list p2 {
+  background-color: lightgreen;
+  color: black;
+  font-family: "Mochiy Pop One", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  padding: 20px;
+  border-radius: 20px;
+}
+.header-list li {
+  background-color: lightpurple;
+  color: black;
+  font-family: "Mochiy Pop One", sans-serif;
+  font-weight: 20px;
+  font-style: normal;
+  padding: 0px;
+}
+.contents {
+  heght: px;
+  mardgin-top: 300px;
+}
+
+.contents h3 {
+  font-size: 30px;
+  font-family: "Mochiy Pop One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.contents-item img {
+  width: 10%;
+  height: auto;
+  display: flex;
+  border-radius: 8px;
+  padding: 10% 0;
+}
